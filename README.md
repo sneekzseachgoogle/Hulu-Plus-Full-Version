@@ -245,4 +245,4 @@ This repository serves as the official landing page for Hulu Plus. The software 
 **Get the most recent version of Hulu Plus today!**
 
 ---
-**Last updated:** 2026-09-20 18:05:12 UTC
+**Last updated:** 2026-09-20 21:15:51 UTC
